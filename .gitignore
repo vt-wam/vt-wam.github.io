@@ -1,0 +1,6 @@
+static/images/VTWAM_fig5_prediction.png
+__pycache__/
+*.pyc
+
+/video/
+/static/videos/VT-WAM-Demo.mp4
